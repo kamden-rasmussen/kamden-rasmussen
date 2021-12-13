@@ -21,10 +21,11 @@ Utah Tech University - Spring 2023
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamden-rasmussen&layout=compact&theme=radical)](https://github.com/kamden-rasmussen/github-readme-stats)
 
 ## Check out my LinkedIn and Resume
-[LinkedIn](https://www.linkedin.com/in/kamden-rasmussen-67b85721a/)
+[LinkedIn](https://www.linkedin.com/in/kamden-rasmussen/)
 
-[Resume](.references/resume.jpg)
+
 <!---
+[Resume](.references/resume.jpg)
 kamden-rasmussen/kamden-rasmussen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
