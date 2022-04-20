@@ -8,6 +8,7 @@ Utah Tech University - Spring 2023
 ## Skills
 * Python - Advanced
 * C++ - Advanced
+* Go - Advanced
 * JavaScript - Intermediate
 * Node.js - Intermediate
 * Vue.js - Intermediate
