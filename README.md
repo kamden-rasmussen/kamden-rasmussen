@@ -13,8 +13,6 @@ Utah Tech University - Spring 2023
 * Node.js - Intermediate
 * Vue.js - Intermediate
 * Express - Intermediate
-* MongoDB - Intermediate
-* React - Beginner
 
 
 <!-- [![Kamden's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamden-rasmussen&theme=radical)](https://github.com/kamden-rasmussen/github-readme-stats) -->
