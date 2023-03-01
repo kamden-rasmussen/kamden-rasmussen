@@ -12,7 +12,6 @@ Utah Tech University - Fall 2023
 * SQL - Proficient
 * PHP - Proficient
 * C - Proficient
-* Go - Proficient
 * JavaScript - Proficient
 * Node.js - Intermediate
 * Vue.js - Intermediate
