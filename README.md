@@ -1,15 +1,19 @@
 # Kamden Rasmussen  
 
-## Software Engineering Student
+## Software Engineer
 
 ### Candidate for Bachelor of Science, Software Engineering
-Utah Tech University - Spring 2023
+Utah Tech University - Fall 2023
 
 ## Skills
-* Python - Advanced
-* C++ - Advanced
-* Go - Advanced
-* JavaScript - Intermediate
+* GOLang - Proficient
+* Python - Proficient
+* C++ - Proficient
+* SQL - Proficient
+* PHP - Proficient
+* C - Proficient
+* Go - Proficient
+* JavaScript - Proficient
 * Node.js - Intermediate
 * Vue.js - Intermediate
 * Express - Intermediate
