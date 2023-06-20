@@ -20,6 +20,7 @@ Utah Tech University - Fall 2023
 
 
 <!-- [![Kamden's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamden-rasmussen&theme=radical)](https://github.com/kamden-rasmussen/github-readme-stats) -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=kamden-rasmussen&theme=dark&hide_border=false)<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamden-rasmussen&layout=compact&theme=radical)](https://github.com/kamden-rasmussen/github-readme-stats)
 
