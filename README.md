@@ -3,7 +3,7 @@
 ## Software Engineer
 Vasion - Software Engineer L2
 
-Bachelor of Science, Software Engineering \n
+Bachelor of Science, Software Engineering  
 Utah Tech University
 
 ## Skills
