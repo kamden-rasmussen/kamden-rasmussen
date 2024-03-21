@@ -4,7 +4,7 @@
 Vasion - Software Engineer L2
 
 Bachelor of Science, Software Engineering
-- Utah Tech University
+Utah Tech University
 
 ## Skills
 * GOLang - Proficient
